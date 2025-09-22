@@ -37,7 +37,7 @@
                 <p>Xexec helps companies create a culture of engagement and motivation through social recognition and meaningful employee rewards.</p>
              </div>
             </div>
-            <div class="about-us"></div>
+
              </div>
 
     </section>
